@@ -2,6 +2,7 @@
 
 ## Description & Goal
 
+An application which generates a logo file utilizing an inquirer prompt that turns the user's input into their desired logo. 
 
 
 
