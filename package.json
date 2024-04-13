@@ -6,17 +6,20 @@
     "directories": {
         "lib": "lib"
     },
+    
     "scripts": {
-        "test": "echo \"Error: no test specified\" & exit 1"
+    "start": "node index.js",
+    "test": "jest", 
+
     },
     "repository": {
         "type": "git",
-        "url" : "git+https://github.com/SongBirdCode/SVG-Logo-Maker-Object-Oriented-Programming.git"
+        "url" : "git+https://github.com/SongBirdCode/SVG-Logo-Maker-Object-Oriented-Programming.git",
     
     },
     "author": "",
-    "License": "ISC"
-        "url": ""
+    "License": "ISC",
+        "url": "https://github.com/SongBirdCode/SVG-Logo-Maker-Object-Oriented-Programming.git",
     },
 
 
