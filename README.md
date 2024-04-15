@@ -38,7 +38,8 @@ the user will be presented with a series of questions in order to create their l
 
 Once completed, the user will find their logo as an svg file. 
 
-A Video Walkthrough is included here:
+A Video Walkthrough is included here: https://drive.google.com/file/d/1eKk_O_-OM20VQs4vY4duYHHIC5lg-GWm/view
+
 
 ## Credits
 All contributions are from me, github.com/songbirdcode.
